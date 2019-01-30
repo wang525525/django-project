@@ -1,1 +1,1 @@
-# django-angular project
+# django project
